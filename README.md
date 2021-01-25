@@ -1,4 +1,4 @@
-# design-patterns
+# Design-patterns
 
 This repo is intended as a placeholder for all design pattern learnings.
 
